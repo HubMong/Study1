@@ -12,7 +12,7 @@
 
 ## 📄 주요 증빙
 
-- [📄 사이버_진로_교육_이수증.pdf](./사이버_진로_교육_이수증.pdf)
+- [📄 사이버_진로_교육_이수증.pdf](https://github.com/HubMong/Study1/blob/main/%EC%96%B8%ED%83%9D%ED%8A%B8%20%EC%B7%A8%EC%97%85%ED%8A%B9%EA%B0%95.pdf)
 
 ---
 
